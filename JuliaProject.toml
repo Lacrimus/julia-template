@@ -1,0 +1,4 @@
+name = "MyApp"
+uuid = "22a25532-f7a9-48d7-9cb4-91562f1e9883"
+
+[deps]
